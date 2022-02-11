@@ -1,0 +1,14 @@
+C:\Studia\git\InventOn2\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+C:\Studia\git\InventOn2\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\Studia\git\InventOn2\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+C:\Studia\git\InventOn2\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+C:\Studia\git\InventOn2\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\Studia\git\InventOn2\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\Studia\git\InventOn2\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.AssemblyReference.cache
+C:\Studia\git\InventOn2\Task1\obj\Debug\netcoreapp3.1\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studia\git\InventOn2\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\Studia\git\InventOn2\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\Studia\git\InventOn2\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\Studia\git\InventOn2\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\Studia\git\InventOn2\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
+C:\Studia\git\InventOn2\Task1\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache
